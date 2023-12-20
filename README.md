@@ -10,28 +10,28 @@ Kuitenkin käytön pitäisi onnistua hyvin suoraa selaimesta.
 ### Luo tai lisää tiedosto
 Kansioiden luonti onnistuu luodessa tiedostoa lisäämällä "/" tiedostonimeen.
 Tiedostoa luodessa sen voi joko päivittää suoraa yhteiseen "branch"iin tai luoda uusi "branch" muokkaukselle. Näistä kohta lisää
-![teksti](kansio.png)
-![teksti](luotiedosto.png)
-![teksti](lisaakuvia1.png)
-![teksti](commit.png)
+![teksti](readmekuvat/kansio.png)
+![teksti](readmekuvat/luotiedosto.png)
+![teksti](readmekuvat/lisaakuvia1.png)
+![teksti](readmekuvat/commit.png)
 
 ### Muokkaa tekstiä
 
 Tiedostoja voi muokata suoraa selaimessa. Muokkaus historiaa voi selata helposti ja nähdä mitä muokattiin.
 
-![teksti](muokkaa.png)
-![teksti](muokattu.png)
-![teksti](historia.png)
-![teksti](muokkaus.png)
+![teksti](readmekuvat/muokkaa.png)
+![teksti](readmekuvat/muokattu.png)
+![teksti](readmekuvat/historia.png)
+![teksti](readmekuvat/muokkaus.png)
 
 ### Branchit
 
 Sen sijaan että muokattaisiin suoraa kaikkien yhteisiä tiedostoja niin järkevää olisi tehdä oma erillinen versio tai kopio jossa voi rauhassa muokata tiedostoja ja sitten lopulta yhdistää ne "main branch"iin pyytämällä muita hyväksymään muokkaukset.
 
-![teksti](oksat.png)
-![teksti](oksanluonti.png)
-![teksti](vaihdaoksaa.png)
-![teksti](oksanmuokkaus.png)
-![teksti](pullrequest.png)
-![teksti](yhdista.png)
-![teksti](yhdistetty.png)
+![teksti](readmekuvat/oksat.png)
+![teksti](readmekuvat/oksanluonti.png)
+![teksti](readmekuvat/vaihdaoksaa.png)
+![teksti](readmekuvat/oksanmuokkaus.png)
+![teksti](readmekuvat/pullrequest.png)
+![teksti](readmekuvat/yhdista.png)
+![teksti](readmekuvat/yhdistetty.png)
